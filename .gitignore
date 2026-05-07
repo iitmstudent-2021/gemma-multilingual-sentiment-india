@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights / large outputs (not needed in repo)
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+submission.csv
