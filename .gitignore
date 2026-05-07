@@ -1,19 +1,68 @@
 # Python
 __pycache__/
 *.py[cod]
+*.py[codz]
+*$py.class
 *.egg-info/
+*.egg
+.installed.cfg
+MANIFEST
 .env
+.envrc
+.venv
+env/
+venv/
+ENV/
 
-# Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# Testing
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Model weights / large outputs (not needed in repo)
+# IDEs
+.idea/
+.vscode/
+.spyderproject
+.ropeproject
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# ML Model weights / large binary outputs (use HuggingFace Hub instead)
 *.bin
 *.safetensors
 *.pt
 *.ckpt
+
+# Competition outputs (regenerate by running notebook)
 submission.csv
