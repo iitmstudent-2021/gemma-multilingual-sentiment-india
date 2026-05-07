@@ -3,7 +3,17 @@
 **Course:** Deep Learning for Practitioners (DLP) — IIT Madras BS in Data Science & Applications
 **Term:** January 2026
 **Student ID:** 21f2001203
-**Platform:** Kaggle Competition (NPPE-DLP-2026-Term-1)
+
+[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-blue?logo=kaggle)](https://www.kaggle.com/competitions/nppe-dlp-2026-term-1)
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle)](https://www.kaggle.com/competitions/nppe-dlp-2026-term-1/data)
+[![HuggingFace Model](https://img.shields.io/badge/HuggingFace-Gemma--3--1B--IT-yellow?logo=huggingface)](https://huggingface.co/google/gemma-3-1b-it)
+
+| | |
+|---|---|
+| **Competition** | [NPPE1\_DLP\_2026\_Term1 on Kaggle](https://www.kaggle.com/competitions/nppe-dlp-2026-term-1) |
+| **Dataset** | [Competition Data](https://www.kaggle.com/competitions/nppe-dlp-2026-term-1/data) |
+| **Participants** | 209 teams, 1,080 submissions |
+| **Evaluation** | Macro F1-Score |
 
 ---
 
